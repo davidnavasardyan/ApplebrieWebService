@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applebrie.API", "Applebrie.API\Applebrie.API.csproj", "{3736E884-DAA8-435F-9DBD-A86F2E6A874C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applebrie.Domain", "Applebrie.Domain\Applebrie.Domain.csproj", "{F363D0F9-DB92-4902-AFBD-4A35B4EFAFD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applebrie.Persistence", "Applebrie.Persistence\Applebrie.Persistence.csproj", "{100A51A9-0989-41E7-AF76-2A70620D30A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applebrie.Application", "Applebrie.Application\Applebrie.Application.csproj", "{9CDC26EB-C0F5-4155-810C-8E2EEA88C083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3736E884-DAA8-435F-9DBD-A86F2E6A874C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3736E884-DAA8-435F-9DBD-A86F2E6A874C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3736E884-DAA8-435F-9DBD-A86F2E6A874C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3736E884-DAA8-435F-9DBD-A86F2E6A874C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F363D0F9-DB92-4902-AFBD-4A35B4EFAFD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F363D0F9-DB92-4902-AFBD-4A35B4EFAFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F363D0F9-DB92-4902-AFBD-4A35B4EFAFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F363D0F9-DB92-4902-AFBD-4A35B4EFAFD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100A51A9-0989-41E7-AF76-2A70620D30A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100A51A9-0989-41E7-AF76-2A70620D30A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100A51A9-0989-41E7-AF76-2A70620D30A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100A51A9-0989-41E7-AF76-2A70620D30A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CDC26EB-C0F5-4155-810C-8E2EEA88C083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDC26EB-C0F5-4155-810C-8E2EEA88C083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDC26EB-C0F5-4155-810C-8E2EEA88C083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDC26EB-C0F5-4155-810C-8E2EEA88C083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {246250BF-13EC-4A19-937C-D0860BA23BAF}
+	EndGlobalSection
+EndGlobal
